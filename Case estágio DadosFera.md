@@ -4,11 +4,11 @@ Este documento contém as respostas para o teste de Analista de Suporte, que sim
 
 # Desafio Dadosfera - Analista de Suporte
 
-## links:
+## Links Importantes
 
-    - Apresentação PDF: https://drive.google.com/file/d/1hpmyBzVFP6fyZt1hPjSeujn1a66H99MM/view?usp=sharing
-    - Apresentação Notion: https://www.notion.so/Desafio-Dadosfera-Analista-de-Suporte-9f3960d1893149cab6774658da89e0f5?pvs=4
-    - Vídeo de apresentação do case: https://youtu.be/e9fuzJpYans
+- [Apresentação PDF](https://drive.google.com/file/d/1hpmyBzVFP6fyZt1hPjSeujn1a66H99MM/view?usp=sharing)
+- [Apresentação Notion](https://www.notion.so/Desafio-Dadosfera-Analista-de-Suporte-9f3960d1893149cab6774658da89e0f5?pvs=4)
+- [Vídeo de apresentação do case](https://youtu.be/e9fuzJpYans)
 
 ## Item Troubleshooting
 
